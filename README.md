@@ -14,5 +14,7 @@
 - **Object Management**: Efficient handling and updating of various game objects (e.g., enemies, obstacles) to ensure a dynamic and responsive game environment.
 - **Scalable Design**: The module is designed to be easily extendable, allowing for the addition of new objects, levels, and gameplay mechanics.
 ---
-
-To play the game, run the Main.java file in the 'src' folder under the 'main' package.
+## How to Play 
+- To play the game, run the Main.java file in the 'src' folder under the 'main' package.
+- Use the keyboard controls to navigate the 2D game space.
+- Explore and interact with the new features introduced by the module.
