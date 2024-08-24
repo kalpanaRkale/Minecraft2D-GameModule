@@ -1,10 +1,10 @@
 # Minecraft2D-GameModule
 
 ![image](https://github.com/user-attachments/assets/67ab22bb-5967-44f8-8c95-1c788a19f01c)
-
-##Overview
-**Minecraft2D-GameModule is a custom Java-based 2D adventure game module designed like Minecraft. This module introduces engaging 2D gameplay and visuals, seamlessly integrating them into the existing Minecraft world. The project showcases core Java game development techniques, offering new features that enhance the player's experience and expand gameplay options.**
 ---
+## Overview
+**Minecraft2D-GameModule** is a custom Java-based 2D adventure game module designed for Minecraft. This module introduces engaging 2D gameplay and visuals, seamlessly integrating them into the existing Minecraft world. The project showcases core Java game development techniques, offering new features that enhance the player's experience and expand gameplay options.
+
 ## Features
 
 - **2D Gameplay Integration**: Designed a 2D game module within Minecraft, providing a unique blend of traditional Minecraft elements with classic 2D game mechanics.
